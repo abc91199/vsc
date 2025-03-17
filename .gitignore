@@ -1,1 +1,3 @@
 *.vsix
+model_deb*
+model_py*
