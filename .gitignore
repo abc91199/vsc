@@ -1,3 +1,3 @@
 *.vsix
-model_deb*
-model_py*
+model_deb.txt
+model_py.txt
